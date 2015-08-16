@@ -1,0 +1,20 @@
+Document title
+==============
+
+== Section
+
+Blah blah blah...
+
+=== Subsection
+
+This is a semi-separate matter.
+
+== Another section
+
+This is a seperate matter.
+
+== Yet another section
+
+- Item 1
+- Item 2
+- Also: this item
